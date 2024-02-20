@@ -1,8 +1,7 @@
-# daggettjody78@gmail.comThis is a basic workflow to help you get started with Actions
+https://github.com/dogecoin/dogecoin/actions/workflows/linter.yml# daggettjody78@gmail.comThis is a basic workflow to help you get started with Actions
 : CI
 
-# Controls when the workflow will run
-on:
+# https://github.com/dogecoin/dogecoin/actions/workflows/linter.yml
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
